@@ -3,7 +3,7 @@
 
 This is a 2D Space Shooter in the vein of Asteroids.
 
-##Implementation
+## Implementation
 Built using Godot 3.3.3
 
 The font, Bebas Neue Regular (Ryoichi Tsunekawa) was downloaded from [https://fontlibrary.org/en/font/bebasneueregular](https://fontlibrary.org/en/font/bebasneueregular)
