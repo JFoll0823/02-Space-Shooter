@@ -11,7 +11,8 @@ func _ready():
 
 func _physics_process(_delta):
 	position += velocity.rotated(rotation)
-
+	position.x = wrapf(position.x,0,VP.x)
+	position.y = wrapf(position.y,0,VP.y)
 func _on_Timer_timeout():
 	queue_free()
 

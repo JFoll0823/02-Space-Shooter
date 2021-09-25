@@ -14,7 +14,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Menu and HUD"
+config/name="02-Space-Shooter"
 run/main_scene="res://Menu/Menu.tscn"
 config/icon="res://icon.png"
 
